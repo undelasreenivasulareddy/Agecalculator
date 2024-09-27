@@ -20,9 +20,6 @@ age-calculator/
 HTML5: For structuring the content and form.
 CSS3: For styling the elements, making it responsive and visually appealing.
 JavaScript: For handling the calculation logic based on user input and the current date.
-📸 Demo
-
-Replace the above URL with an actual image of the calculator in action.
 
 ✨ How It Works
 The user enters their birthdate in the provided input field.
@@ -31,19 +28,3 @@ The exact age in years, months, and days is displayed.
 Input Fields:
 Birthdate: A date picker for the user to select their birthdate.
 Calculate Age button: Triggers the age calculation.
-📋 Setup Instructions
-To run this project locally:
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/age-calculator.git
-Navigate to the project folder:
-bash
-Copy code
-cd age-calculator
-Open the index.html file in your browser to view the app.
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🔗 Live Demo: 
